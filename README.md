@@ -133,4 +133,4 @@ print("\n🎉 Background removal completed!")
 ### 🎯 Now you are ready to remove backgrounds from your images efficiently! 🚀
 
 ###input image 
-![image processing]([1.png](https://github.com/Varunraguram/PicEnhance/edit/main/PicEnhance/read-image/1.png))
+![Online Image](https://example.com/sample_output.png)
