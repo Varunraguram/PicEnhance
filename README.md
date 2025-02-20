@@ -19,92 +19,114 @@ Ensure Python is installed. Check using:
 ```bash
 python --version
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PicEnhance - Image Background Remover</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 40px;
-            padding: 20px;
-            background-color: #f4f4f4;
-        }
-        h1, h2 {
-            color: #333;
-        }
-        pre {
-            background: #333;
-            color: #fff;
-            padding: 10px;
-            border-radius: 5px;
-            overflow-x: auto;
-        }
-        code {
-            color: #ffcc00;
-        }
-    </style>
-</head>
-<body>
+Here is your **README.md** file with HTML formatting for GitHub:  
 
-    <h1>🚀 PicEnhance - Image Background Remover</h1>
-    <p>PicEnhance is a Python-based tool that removes backgrounds from images and enhances their quality.</p>
+---
 
-    <h2>📥 Clone the Repository</h2>
-    <p>Use Git to clone the repository:</p>
-    <pre><code>git clone https://github.com/yourusername/PicEnhance.git
-cd PicEnhance</code></pre>
+### **📄 README.md**
+```markdown
+# 🚀 PicEnhance - Image Background Remover & Enhancer
 
-    <h2>🛠️ Create a Virtual Environment (Optional)</h2>
-    <p>To avoid package conflicts, create a virtual environment:</p>
-    <pre><code>python -m venv env</code></pre>
-    
-    <h3>Activate the Virtual Environment:</h3>
-    <p><strong>Windows:</strong></p>
-    <pre><code>env\Scripts\activate</code></pre>
-    
-    <p><strong>Mac/Linux:</strong></p>
-    <pre><code>source env/bin/activate</code></pre>
+PicEnhance is a Python-based tool that removes backgrounds from images and enhances their quality.
 
-    <h2>📦 Install Dependencies</h2>
-    <p>Run the following command to install the required Python packages:</p>
-    <pre><code>pip install rembg pillow onnxruntime</code></pre>
+---
 
-    <h2>📂 Folder Structure</h2>
-    <pre><code>PicEnhance/
+## 📥 Clone the Repository
+Use Git to clone the repository:
+```bash
+git clone https://github.com/yourusername/PicEnhance.git
+cd PicEnhance
+```
+
+---
+
+## 🛠️ Create a Virtual Environment (Optional)
+To avoid package conflicts, create a virtual environment:
+```bash
+python -m venv env
+```
+
+### **Activate the Virtual Environment**
+#### **Windows:**
+```bash
+env\Scripts\activate
+```
+#### **Mac/Linux:**
+```bash
+source env/bin/activate
+```
+
+---
+
+## 📦 Install Dependencies
+Run the following command to install the required Python packages:
+```bash
+pip install rembg pillow onnxruntime
+```
+
+---
+
+## 📂 Folder Structure
+```
+PicEnhance/
 │── input/      (Folder containing original images)
 │── output/     (Folder where processed images are saved)
 │── BGRemover.py (Python script)
-│── README.md   (This file)</code></pre>
+│── README.md   (This file)
+```
 
-    <h2>💡 Usage</h2>
-    <p>1️⃣ Place images in the <code>input/</code> folder.</p>
-    <p>2️⃣ Run the script using:</p>
-    <pre><code>python BGRemover.py</code></pre>
-    <p>3️⃣ Processed images will be saved in the <code>output/</code> folder.</p>
+---
 
-    <h2>❓ Troubleshooting</h2>
-    <p><strong>ModuleNotFoundError: No module named 'rembg'</strong></p>
-    <pre><code>pip install rembg</code></pre>
+## 💡 Usage
+1️⃣ Place images in the `input/` folder.  
+2️⃣ Run the script using:
+```bash
+python BGRemover.py
+```
+3️⃣ Processed images will be saved in the `output/` folder.
 
-    <p><strong>ModuleNotFoundError: No module named 'onnxruntime'</strong></p>
-    <pre><code>pip install onnxruntime</code></pre>
+---
 
-    <p><strong>cv2.imshow Error in OpenCV</strong></p>
-    <pre><code>pip install opencv-python-headless</code></pre>
+## ❓ Troubleshooting
+### **ModuleNotFoundError: No module named 'rembg'**
+```bash
+pip install rembg
+```
 
-    <h2>📄 License</h2>
-    <p>This project is licensed under the <strong>MIT License</strong>.</p>
+### **ModuleNotFoundError: No module named 'onnxruntime'**
+```bash
+pip install onnxruntime
+```
 
-    <h2>🤝 Contributing</h2>
-    <p>Feel free to submit pull requests or open issues to improve this project!</p>
+### **cv2.imshow Error in OpenCV**
+If OpenCV GUI functions fail, install:
+```bash
+pip install opencv-python-headless
+```
 
-    <h2>📩 Contact</h2>
-    <p>For any questions, reach out at <strong>your-email@example.com</strong>.</p>
+---
 
-    <p>🚀 <strong>Enjoy hassle-free background removal!</strong> 🎨✨</p>
+## 📄 License
+This project is licensed under the **MIT License**.
 
-</body>
-</html>
+---
+
+## 🤝 Contributing
+Feel free to submit pull requests or open issues to improve this project!
+
+---
+
+## 📩 Contact
+For any questions, reach out at **your-email@example.com**.
+
+---
+
+🚀 **Enjoy hassle-free background removal!** 🎨✨
+```
+
+### **How to Use This README File**
+1. Save this content in a file named **README.md**.
+2. Upload it to your GitHub repository.
+3. It will be displayed on your repository’s homepage.
+
+This **README.md** provides clear instructions and troubleshooting tips. Let me know if you need modifications! 🚀😊
