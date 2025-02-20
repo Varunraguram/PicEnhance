@@ -132,3 +132,5 @@ print("\n🎉 Background removal completed!")
 
 ### 🎯 Now you are ready to remove backgrounds from your images efficiently! 🚀
 
+###input image 
+![image processing](1.png)
