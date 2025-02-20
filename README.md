@@ -141,7 +141,7 @@ print("\n🎉 Background removal completed!")
 ![out image part 1](https://github.com/Varunraguram/PicEnhance/blob/main/PicEnhance/read-image/3.png)
 
 
-<img src="https://github.com/Varunraguram/PicEnhance/blob/main/PicEnhance/read-image/4.png" width="300" height="200" />
+![out image part 1](https://github.com/Varunraguram/PicEnhance/blob/main/PicEnhance/read-image/4.png) 
 
 
 
